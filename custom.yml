@@ -6,26 +6,6 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
-  - luci-app-accesscontrol
-  - luci-app-arpbind
-  - luci-app-autoreboot
-  - luci-app-cifs-mount
-  - luci-app-cpufreq
-  - luci-app-ddns
-  - luci-app-filetransfer
-  - luci-app-gowebdav
-  - luci-app-hd-idle
-  - luci-app-openclash
-  - luci-app-qbittorrent
-  - luci-app-qos
-  - luci-app-ramfree
-  - luci-app-ttyd
-  - luci-app-upnp
-  - luci-app-uugamebooster
-  - luci-app-vsftpd
-  - luci-app-vlmcsd
-  - luci-app-vssr
-  - luci-app-wifischedule
 
 
 
